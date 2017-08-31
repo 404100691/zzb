@@ -3,5 +3,10 @@ This is a test , I am zzb
 cccccc
 dddddd
 License lear
-Test checkout fil111111111111111e
+<<<<<<< HEAD
+Test checkout file
+=======
+Test checkout file
+branch resolve
+>>>>>>> feature1
 2017/8/31 work hard for life
